@@ -1,0 +1,81 @@
+# Build results
+bin/
+obj/
+out/
+Debug/
+Release/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dotnet tools
+**/.store/
+**/.tools/
+**/.package/
+**/.vs/
+**/.nuget/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Others
+*.log
+*.tlog
+*.tmp
+*.bak
+*.swp
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+
+# LocalDB
+*.mdf
+*.ldf
+
+# EF Migrations
+Migrations/
+
+# Publish
+publish/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Secret files
+secrets.json
+appsettings.*.json
+local.settings.json
+
+# Azure Functions local files
+*.localsettings.json
+
+# JetBrains Rider/Resharper
+.ReSharper*/
